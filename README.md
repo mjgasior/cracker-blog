@@ -10,3 +10,9 @@
 ```
 eval `keychain --eval --agents ssh id_rsa`
 ```
+
+## Tools setup in WSL:
+
+1. Node.js - `sudo apt install nodejs`.
+2. NPM - `sudo apt install npm`.
+3. NPX - `sudo apt install npx`.
